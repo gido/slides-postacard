@@ -2,24 +2,22 @@
 
 # Me
 
-# The Genesis
+# The Genesis - it was 2015
 
     * I wanted to learn NodeJS (back in 2015)
     * I was looking for a sideproject to build
 
-# The idea
-
 
 # Postacard.ch
 A mix of two products:
-    
+
     * PostCard Creator (by the Swiss Post)
     * Instagram
 
 ## PostCard Creator
 
  > Produce your post card mailing online with PostCard Creator.
- 
+
     * [A web app](https://postcardcreator.post.ch)
     * [A mobile app](https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8)
 
@@ -27,7 +25,7 @@ A mix of two products:
 
 
 ## Instagram
-Did I need to present this application?
+Do I need to present this application?
 
 
 ## What is Postacard
@@ -45,7 +43,7 @@ Postacard.ch let you map a specific hashtag with a (Postal) Address.
 # Reverse Engineering
 
 ## Tools
- 
+
     * Charles Web Debugging Proxy: https://www.charlesproxy.com/
     * or Wireshark (https://www.wireshark.org/)
     * Postman
@@ -89,7 +87,7 @@ Postacard.ch let you map a specific hashtag with a (Postal) Address.
     PUT /rest/2.0/users/{userId}/mailings/{mailingId}/recipients
 
 ## Assets endpoint
-    
+
     POST /rest/2.0/users/{userId}/assets
 
 ## Page Layout (front)
