@@ -42,11 +42,26 @@ Postacard.ch let you map a specific hashtag with a (Postal) Address.
 
 # Reverse Engineering
 
+> Reverse engineering, also called back engineering, is the processes of extracting knowledge or design information from a product and reproducing it or reproducing anything based on the extracted information.
+
 ## Tools
 
-    * Charles Web Debugging Proxy: https://www.charlesproxy.com/
-    * or Wireshark (https://www.wireshark.org/)
+    * Charles Web Debugging Proxy: https://www.charlesproxy.com/ or Wireshark (https://www.wireshark.org/)
+    * Tools to simulate human interactions
     * Postman
+    * Times
+
+## HTTP Debugger
+    * Charles Web Debugging Proxy
+
+## Simulate humain interactions
+    * HTML Scrapping (Extract data from HTML).
+        - request + cheerio (nodejs), requests + lxml (python), ...
+    * Fonctional testing tools
+        - Selenium, Behat
+
+    * Eq: Get a Token from the Post SSO.
+
 
 ## Step to send a postcard
 
