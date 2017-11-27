@@ -2,19 +2,12 @@
 
 # Me
 
-# The Genesis - it was 2015
+## Your grandma is not on Instagram ?
 
-    * I wanted to learn NodeJS (back in 2015)
-    * I was looking for a sideproject to build
+## But it makes her so happy to get attentions from you
+- Like a postcard or a message
 
-
-# Postacard.ch
-A mix of two products:
-
-    * PostCard Creator (by the Swiss Post)
-    * Instagram
-
-## PostCard Creator
+## There is a perfect product for this : PostCard Creator
 
  > Produce your post card mailing online with PostCard Creator.
 
@@ -23,16 +16,27 @@ A mix of two products:
 
 > With PostCard Creator, send one free postcard every 24 hours.
 
+## But I post my photo on Instagram
 
-## Instagram
-Do I need to present this application?
+## I want :
+ #lovegrandma
+ And she gets my message
+
+# The Genesis - it was 2015
+
+    * I wanted to learn NodeJS (back in 2015)
+    * I was looking for a sideproject to build
+
+# Postacard.ch
+A mix of two products:
+
+    * PostCard Creator (by the Swiss Post)
+    * Instagram
 
 
 ## What is Postacard
 Send Instagram photo as a real postcard by just adding a custom hashtag (eq: <code>#postacard</code> or <code>grandma</code>).
-
 Postacard.ch let you map a specific hashtag with a (Postal) Address.
-
 (Postacard will queue the delivery to use the free sending each 24h.)
 
 # How to build it ?
@@ -49,7 +53,7 @@ Postacard.ch let you map a specific hashtag with a (Postal) Address.
     * Charles Web Debugging Proxy: https://www.charlesproxy.com/ or Wireshark (https://www.wireshark.org/)
     * Tools to simulate human interactions
     * Postman
-    * Times
+    * Time
 
 ## HTTP Debugger
     * Charles Web Debugging Proxy
